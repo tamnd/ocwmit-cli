@@ -1,0 +1,10 @@
+title       = "ocwmit"
+baseURL     = "https://ocwmit-cli.tamnd.com/"
+description = "A command line for ocwmit."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/ocwmit-cli"
